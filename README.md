@@ -88,6 +88,9 @@ Handles general platform-related queries
 | **Doctor Connect** | **Hospital Locator** |
 | <a href="./wireframe/doctorsMEET.png"><img src="./wireframe/doctorsMEET.png" width="400" height="550" alt="Doctor Connect"></a> | <a href="./wireframe/nearby_hospital.png"><img src="./wireframe/nearby_hospital.png" width="400" height="590" alt="Hospital Locator"></a> |
 
+
+
+                                                          run only the frontend and backend folders
 How to Run the Project
 (If there are any specific steps or dependencies to run your project locally, please list them here or add them in your README file on GitHub.)
 *
